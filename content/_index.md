@@ -13,7 +13,7 @@ title = "Home"
   <p style="color: DodgerBlue; font-size: 15px; line-height: 1"> Department of Neurosurgery, Baylor College of Medicine </p>
  </div>
  <div>
-  {{< figure class="current_pic" src="/current_pic.jpg" width="215" height="200" >}}
+  {{< figure class="current_pic" src="current_pic.jpg" width="215" height="200" >}}
  </div>
 </div>
 
