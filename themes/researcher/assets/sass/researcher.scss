@@ -55,10 +55,11 @@ $y-medium: 1.0rem;
 }
 .navbar-brand {
     @extend %link-dark;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 .nav-link {
     @extend %link-default;
+    font-size: 16px;
 }
 #content {
     a {
@@ -158,5 +159,6 @@ $y-medium: 1.0rem;
 #footer {
     a {
         @extend %link-dark;
+    font-size: 14px;
     }
 }
