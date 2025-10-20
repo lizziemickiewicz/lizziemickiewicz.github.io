@@ -1,0 +1,54 @@
+title = "🌷lizzie mickiewicz"
+baseURL = "https://lizziemickiewicz.github.io/"
+theme = "researcher"
+enableEmoji = true
+
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Lizzie Mickiewicz"
+  description = "Research Technician. Neurosurgery. Baylor College of Medicine."
+  favicon = "/favicon.ico" 
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "made with 🌷 © lizzie mickiewicz"
+    url = "https://github.com/lizziemickiewicz/lizziemickiewicz.github.io/"
+  [params.style]
+    fontFamily = "sans-serif"
+    pageWidth = "850px"
+    avatarSize = "185px"
+    colorBlack = "#222222"
+    colorRed = "#FB4689"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "Email"
+    url = "mailto:elizabeth.mickiewicz@bcm.edu"
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/lizziemickiewicz"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "papers"
+    url = "/papers"
+    weight = 2
+[[menu.main]]
+    name = "presentations"
+    url = "/presentations"
+    weight = 3
+  [[menu.main]]
+    name = "cv"
+    url = "/mickiewicz-cv.pdf"
+    weight = 4
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
