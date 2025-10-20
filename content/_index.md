@@ -2,11 +2,19 @@
 title = "Home"
 +++
 
+<style>
+@media (max-width: 768px) {
+  .header-flex {
+    flex-direction: column !important;
+    gap: 20px !important;
+  }
+  .header-flex img {
+    margin: 0 auto;
+  }
+}
+</style>
 
-<body style="background-color:#F5FAFF">
-
-
-<div style="display: flex; align-items: center; gap: 70px">
+<div class="header-flex" style="display: flex; align-items: center; gap: 70px">
  <div>
   <h2 style="font-size: 25px; color: #FB4689; line-height:.5"> Lizzie Mickiewicz </h2>
   <h4 style="font-size: 18px; line-height: 0.1"> Research Technician, Hayden Lab </h4>
