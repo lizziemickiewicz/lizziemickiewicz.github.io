@@ -55,7 +55,7 @@ title = "papers"
 <span style="font-size:16px; line-height:1.0; margin:0; display:block;">Casey, K., Elliott, M., <span style="font-size:16px; font-weight:900;">Mickiewicz, E.</span>, Bergelson, E., & Casillas, M. (in prep). <span style="color:DodgerBlue; font-size:16px;">Distributional patterns of children’s at-home object handling in two subsistence societies</span>.
 
 
-<h4 style="line-height:0.5; padding-top: 20px">Peer-Reviewed Conference Proceedings</h4>
+<h4 style="line-height:1; padding-top: 20px">Peer-Reviewed Conference Proceedings</h4>
 <span style="font-size:16px; line-height:1.0; margin:0; display:block;">Casey, K., Elliott, M., <span style="font-size:16px; font-weight:900;">Mickiewicz, E.</span> Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & Casillas, M. (2022). <span style="color:DodgerBlue; font-size:16px;">Sticks, leaves, buckets, and bowls: Distributional patterns of children’s at-home object handling in two subsistence societies</span>. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), <span style="font-size:16px; font-style:italic;">Proceedings of the 44th Annual Meeting of the Cognitive Science Society</span> (pp. 927-933).<br><a href="https://escholarship.org/uc/item/6wx2x30s" style="font-size:15px">doi</a> <span style="font-size:15px;">|</span> <a href = "/papers/imco_mex_ng.pdf" style="font-size:15px;">pdf</a>
 </span>
 </body>
