@@ -2,6 +2,8 @@
 title = "home"
 +++
 
+<body style="background-color:#F5FAFF">
+
 <style>
 @media (max-width: 768px) {
   .header-flex {
