@@ -8,7 +8,17 @@ title = "presentations"
 <h4 style="line-height:0.5; padding-bottom:2px">Conference Talks</h4>
 
 <span style="font-size:16px; line-height:1.0; margin:0; display:block;">
-<span style="font-size:16px; font-weight:900;">Mickiewicz, E. A.</span>, Melissa Franch, Kalman A. Katlowitz, Ana G. Chavez, Hanlin Zhu, Assia Chericoni, Xinyuan Yan, James L. Belanger, Taha Ismail, Danika Paulo, Alica Goldman, Vaishnav Krishnan, Atul Maheshwari, Eleonora Bartoli, Sarah R. Heilbronner, Nicole R. Provenza, Sameer A. Sheth, Benjamin Y. Hayden, (2025). <span style="color:DodgerBlue; font-size:16px;">Semantotopy in the hippocampus</span>. Talk to be presented at the Human Single-Neuron Meeting. Pasadena, CA.</span>
+<span style="font-size:16px; font-weight:900;">Mickiewicz, E. A.</span>, Melissa Franch, Kalman A. Katlowitz, Ana G. Chavez, Hanlin Zhu, Assia Chericoni, Xinyuan Yan, James L. Belanger, Taha Ismail, Danika Paulo, Alica Goldman, Vaishnav Krishnan, Atul Maheshwari, Eleonora Bartoli, Sarah R. Heilbronner, Nicole R. Provenza, Sameer A. Sheth, Benjamin Y. Hayden, (2025). <span style="color:DodgerBlue; font-size:16px;">Semantotopy in the hippocampus</span>. Talk presented at the Human Single-Neuron Meeting. Pasadena, CA.
+
+<a href = "/presentations/HSN_2025.pdf" style="font-size:15px;">slides</a>
+
+<center>
+
+<embed src="/presentations/HSN_2025.pdf#toolbar=0&navpanes=0&scrollbar=0"
+width="65%" height="225px">
+</embed> 
+</center>
+</span>
 
 <br>
 <span style="font-size:16px; line-height:1.0; margin:0; display:block;">
