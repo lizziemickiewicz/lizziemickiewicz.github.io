@@ -47,7 +47,7 @@ googleAnalytics = ""  # add your tracking id
     weight = 3
   [[menu.main]]
     name = "cv"
-    url = "/Mickiewicz website CV.pdf"
+    url = "/mickiewicz-cv.pdf"
     weight = 4
 
 [markup.goldmark.renderer]
