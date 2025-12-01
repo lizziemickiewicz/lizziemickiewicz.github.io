@@ -32,7 +32,7 @@ title = "home"
 
 <span style="font-size: 17px">Previously, I received my BS in Neuroscience and BA in Psychology from the University of Chicago. I worked with <a href="https://humdev.uchicago.edu/directory/marisa-casillas" style="font-size: 17px">Dr. Marisa Casillas</a> in the <a href="https://chatterlab.uchicago.edu/" style="font-size: 17px">Chatter Lab</a> to study how children from different cultures learn language in different contexts. </span>
 
-<span style="font-size: 17px">I am interested in how the <span style="color: DodgerBlue; font-size: 17px">variability</span> and <span style="color: DodgerBlue; font-size: 17px">complexity</span> of children's <span style="color: DodgerBlue; font-size:17px">naturalistic</span> language input shapes <span style="color: DodgerBlue; font-size:17px">language development</span>. What are the social and neural mechanisms that support this learning? How do they change over time and with different experiences?</span>
+<span style="font-size: 17px">I am interested in how the <span style="color: DodgerBlue; font-size: 17px">variability</span> and <span style="color: DodgerBlue; font-size: 17px">complexity</span> of children's <span style="color: DodgerBlue; font-size:17px">naturalistic</span> language input shapes language development. What are the <span style="color: DodgerBlue; font-size:17px">social</span> and <span style="color: DodgerBlue; font-size:17px">neural</span> mechanisms that support this learning? How do they change over time and with different experiences?</span>
 
 
 </body>

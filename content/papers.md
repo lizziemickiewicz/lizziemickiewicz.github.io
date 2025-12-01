@@ -4,6 +4,12 @@ title = "papers"
 
 <body style="background-color:#F5FAFF">
 <h3 style="line-height:0.5; padding-bottom:10px">Papers</h3>
+<h4 style="line-height:1;">Peer-Reviewed Conference Proceedings</h4>
+<span style="font-size:16px; line-height:1.0; margin:0; display:block;">Casey, K., Elliott, M., <span style="font-size:16px; font-weight:900;">Mickiewicz, E.</span> Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & Casillas, M. (2022). <span style="color:DodgerBlue; font-size:16px;">Sticks, leaves, buckets, and bowls: Distributional patterns of children’s at-home object handling in two subsistence societies</span>. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), <span style="font-size:16px; font-style:italic;">Proceedings of the 44th Annual Meeting of the Cognitive Science Society</span> (pp. 927-933).<br><a href="https://escholarship.org/uc/item/6wx2x30s" style="font-size:15px">doi</a> <span style="font-size:15px;">|</span> <a href = "/papers/imco_mex_ng.pdf" style="font-size:15px;">pdf</a>
+</span>
+
+<br>
+
 <h4 style="line-height:0.5; padding-bottom:2px">In prep</h4>
 
 <p <span style="font-size:12px;">*Equal contribution &emsp; **Equal contribution</span> </p>
@@ -57,10 +63,12 @@ title = "papers"
 </span>
 
 <br>
+<span style="font-size:16px; line-height:1.0; margin:0; display:block;">Yan, X., Krishna, A., Van Arsdel, K., Gautam, I., Kim, Y., Shrivastava, Aa., Belanger, J., Chavez, A. G., Chericoni, A., Franch, M., Ismail, T., Katlowitz, K., <span style="font-size:16px; font-weight:900;">Mickiewicz, E. A.</span>, Paulo, D., Zhu, H., Goldman, A. M., Krishnan, V., Maheshwari, A., Bartoli, E., … Sheth, S. (2025). <span style="color:DodgerBlue; font-size:16px;">Shared neural geometries for bilingual semantic representations</span>. <span style="font-size:16px; font-style:italic;">bioRxiv</span>, 2025.03.06.641914.
+
+<a href="https://doi.org/10.1101/2025.11.16.688726" style="font-size:15px">doi</a> <span style="font-size:15px;">|</span> <a href = "/papers/bilingual.pdf" style="font-size:15px;">pdf</a>
+</span>
+
+<br>
 <span style="font-size:16px; line-height:1.0; margin:0; display:block;">Casey, K., Elliott, M., <span style="font-size:16px; font-weight:900;">Mickiewicz, E.</span>, Bergelson, E., & Casillas, M. (in prep). <span style="color:DodgerBlue; font-size:16px;">Distributional patterns of children’s at-home object handling in two subsistence societies</span>.
 
-
-<h4 style="line-height:1; padding-top: 20px">Peer-Reviewed Conference Proceedings</h4>
-<span style="font-size:16px; line-height:1.0; margin:0; display:block;">Casey, K., Elliott, M., <span style="font-size:16px; font-weight:900;">Mickiewicz, E.</span> Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & Casillas, M. (2022). <span style="color:DodgerBlue; font-size:16px;">Sticks, leaves, buckets, and bowls: Distributional patterns of children’s at-home object handling in two subsistence societies</span>. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), <span style="font-size:16px; font-style:italic;">Proceedings of the 44th Annual Meeting of the Cognitive Science Society</span> (pp. 927-933).<br><a href="https://escholarship.org/uc/item/6wx2x30s" style="font-size:15px">doi</a> <span style="font-size:15px;">|</span> <a href = "/papers/imco_mex_ng.pdf" style="font-size:15px;">pdf</a>
-</span>
 </body>
