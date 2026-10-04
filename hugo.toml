@@ -1,5 +1,5 @@
-title = "🌷lizzie mickiewicz"
-baseURL = "https://lizziemickiewicz.github.io/"
+title = "TITLE OF CONFERENCE"
+baseURL = "https://lizziemickiewicz.github.io/" #CHANGE URL
 theme = "researcher"
 enableEmoji = true
 
@@ -7,47 +7,43 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
-  author = "Lizzie Mickiewicz"
-  description = "Research Technician. Neurosurgery. Baylor College of Medicine."
-  favicon = "/favicon.ico" 
+  author = "roundtable2027" #CHANGE AUTHOR
+  description = "roundtable2027"
+  favicon = "" #CHANGE ICON
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "made with 🌷 © lizzie mickiewicz"
-    url = "https://github.com/lizziemickiewicz/lizziemickiewicz.github.io/"
+    text = "made with © SOMEONE"
+    url = "https://github.com/lizziemickiewicz/lizziemickiewicz.github.io/" #CHANGE URL
   [params.style]
     fontFamily = "sans-serif"
-    pageWidth = "850px"
+    pageWidth = "1200px"
     avatarSize = "185px"
-    colorBlack = "#222222"
-    colorRed = "#FB4689"
+    colorBlack = "white"
+    colorRed = "#afdcff"
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "Email"
-    url = "mailto:elizabeth.mickiewicz@bcm.edu"
-  [[params.socialIcons]]
-    icon = "fab fa-github"
-    title = "GitHub"
-    url = "https://github.com/lizziemickiewicz"
+    url = "" #CHANGE EMAIL
 
 [permalinks]
   "/" = "/:filename"
 
 [menu]
   [[menu.main]]
-    name = "home"
+    name = "HOME"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "papers"
-    url = "/papers"
+    name = "KEYNOTE SPEAKERS"
+    url = "/keynotespeakers"
     weight = 2
 [[menu.main]]
-    name = "presentations"
-    url = "/presentations"
+    name = "PROGRAM"
+    url = "/program"
     weight = 3
   [[menu.main]]
-    name = "cv"
-    url = "/mickiewicz-cv.pdf"
+    name = "TRAVEL"
+    url = "/travel"
     weight = 4
 
 [markup.goldmark.renderer]
